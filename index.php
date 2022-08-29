@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://filtermart.online/"); 
+header("Location: https://drnguyendinhminh.com/"); 
   
 exit; 
 ?> 
